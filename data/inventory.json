@@ -1,0 +1,21 @@
+[
+	{
+		"item":"almonds",
+		"sku":"alm-123",
+		"avail":"In Stock"
+	},
+	{
+		"item":"peanuts",
+		"sku":"pea-123",
+		"avail":"In Stock"
+
+	},
+		{
+		"item":"walnuts",
+		"sku":"wal-123",
+		"avail":"Out of Stock"
+
+	}
+
+
+]
